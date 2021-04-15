@@ -1,2 +1,2 @@
-# postrt--react-js
+# postr--react-js
 It is an social media web sit 
